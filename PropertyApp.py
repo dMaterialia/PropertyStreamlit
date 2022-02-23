@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 import os
 import pickle
 import copy
+from sklearn.ensemble import RandomForestRegressor
 
 st.title('Swansea Property Price Predictor')
 

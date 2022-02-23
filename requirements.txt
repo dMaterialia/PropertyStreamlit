@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+os
+pickle
+copy
+gdown

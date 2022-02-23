@@ -2,3 +2,4 @@ numpy
 pandas
 matplotlib
 gdown
+scikit-learn
